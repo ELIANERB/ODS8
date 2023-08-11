@@ -77,6 +77,7 @@ body  {
                 display: flex;
                 gap: 16px;
                 padding: 36px;
+    
               }
               .browser-inf{
                 flex: 1;
@@ -88,7 +89,7 @@ body  {
                 flex-direction: column;
             
               }
-               
+                      <!--SAIBA MAIS-->
                      .browser-inf__title{
                         text-transform: uppercase;
                         border-bottom: 2px solid blue;
@@ -104,7 +105,7 @@ body  {
                .browser-inf__text{
                 font-size: 34px;
                }
-    
+                 <!--TEXTO AO LADO DO PONTO AZUL-->
                .browser-inf__stitches{
                 margin: 0 0 35px;
                 color: white;
@@ -114,12 +115,12 @@ body  {
     
                }
 
-                <!LINHA AZUL DO BOX PRETO-->
+                <!PONTO AZUL NO BOX PRETO-->
                .browser-inf__stitches li::marker{
                 color: blue;
     
                }
-                  
+                  <!--BOTÃO SAIBA MAIS-->
                   .browser-inf__cta{
                     text-decoration: none;
                     background-color: rgb(0, 166, 255);
@@ -131,7 +132,7 @@ body  {
                     text-align: center;
     
                   }
-                    <!--BARRIBHA SAIBA MAIS-->
+                    <!--BARRA SAIBA MAIS-->
                   .browser-inf__cta:hover{
                     outline: 2px solid rgb(0, 166, 255);
                     background-color: transparent;
