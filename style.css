@@ -523,10 +523,8 @@ label {
    
 
 .footer {
-    padding-top: 0;
-        text-align: justify;
-        margin-left: auto;
-        margin-right: auto;
-        box-direction: normal;
-
+     width: 2%;
+        margin: 1%;
+        display: block;
+        object-fit: cover;
 }
