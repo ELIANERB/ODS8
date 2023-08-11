@@ -69,7 +69,7 @@ body  {
                 color: blue;
     
               }
-              
+              <!-- 2ª -BOX COR PRETA-->
               .browser{
                 display: flex;
                 gap: 16px;
@@ -110,7 +110,8 @@ body  {
                 flex-grow: 1;
     
                }
-    
+
+                <!LINHA AZUL DO BOX PRETO-->
                .browser-inf__stitches li::marker{
                 color: blue;
     
@@ -118,7 +119,6 @@ body  {
                   
                   .browser-inf__cta{
                     text-decoration: none;
-                    color: #8383d5;
                     background-color: rgb(0, 166, 255);
                     border-radius: 6px;
                     text-transform: uppercase;
@@ -128,7 +128,7 @@ body  {
                     text-align: center;
     
                   }
-    
+                    <!--BARRIBHA SAIBA MAIS-->
                   .browser-inf__cta:hover{
                     outline: 2px solid rgb(0, 166, 255);
                     background-color: transparent;
