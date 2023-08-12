@@ -13,7 +13,7 @@ body  {
         text-transform: center;
         margin-right: 46px;
         margin-left: 46px ;
-        font: 900;
+        font: roboto;
         justify-content: space-between;
 
     }
@@ -23,7 +23,8 @@ body  {
         background-color: blue;
         padding: 16px;
         justify-content: space-between;
-        text-aline: center
+        text-aline: center;
+        height: 350;
        }
     
        .header__logo {
