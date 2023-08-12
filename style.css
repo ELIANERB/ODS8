@@ -5,6 +5,8 @@ body  {
     margin: 0 auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: justify center;
+    exibição : flexível;
+
    
     }
     
@@ -16,6 +18,8 @@ body  {
         justify-content: space-between;
          height: 350px;
         width: 10100px;
+     exibição : flexível;
+
 
 
     }
@@ -27,6 +31,8 @@ body  {
         justify-content: space-between;
         text-aline: center;
         height: 350;
+        exibição : flexível;
+
        }
     
        .header__logo {
@@ -34,6 +40,8 @@ body  {
         text-transform: uppercase;
         margin-left: 16px;
         letter-spacing: 2px;
+      exibição : flexível;
+
     }
        
        .header__nav ul{
